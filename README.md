@@ -1,3 +1,4 @@
+![logo_small.png](/asset/logo_small.png)
 # The Sparks Foundation 
 ## Graduate Rotational Internship Program
 ___
