@@ -1,4 +1,4 @@
-![logo_small.png](/asset/logo_small.png)
+<div align="center">![logo_small.png](/asset/logo_small.png)</div>
 # The Sparks Foundation 
 ## Graduate Rotational Internship Program
 ___
