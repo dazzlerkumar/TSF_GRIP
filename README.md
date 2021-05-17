@@ -1,7 +1,6 @@
-<div align="center">![logo_small.png](/asset/logo_small.png)</div>
-# The Sparks Foundation 
-## Graduate Rotational Internship Program
-___
+![logo_small.png](/asset/logo_small.png)
+# <div align="center">The Sparks Foundation</div>
+## <div align="center">Graduate Rotational Internship Program</div>
 
 ### **Author:** Deepak Kumar
 ### **Batch:** May, 2021
